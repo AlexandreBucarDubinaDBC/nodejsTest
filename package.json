@@ -1,0 +1,26 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "Teste dbccompany nodejs",
+  "main": "unit-test.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node unit-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreBucarDubinaDBC/nodejsTest.git"
+  },
+  "keywords": [
+    "tst"
+  ],
+  "author": "Alexandre Bucar Dubina",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AlexandreBucarDubinaDBC/nodejsTest/issues"
+  },
+  "homepage": "https://github.com/AlexandreBucarDubinaDBC/nodejsTest#readme"
+}
