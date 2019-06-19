@@ -60,4 +60,4 @@ typings/
 # next.js build output
 .next
 
-./Promise-01/index-response.js
+Promise-01/index-response.js
