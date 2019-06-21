@@ -5,7 +5,7 @@ Teste em nodejs DBCcompany
 Baixar e executar a instalação do projeto
 comando npm i
 
-1 PROMISES
+1 PROMISES  File: Promise-TST/index.js
 
     Criar 3 metodos que retornem um promise e executam simutaneamente processamento 
     de dados paralelos utilizando com delay de 1 segundo cada execuçao 
@@ -17,7 +17,7 @@ comando npm i
     final somar os resultados e retornar.
     Implementar metodos de calculo de forma asincrona, que retorna resultado final no metodo result;
 
-2 Express / HTTP Request
+2 Express / HTTP Request File: Express-TST/index.js
 
     Criar um servidor usando express na porta 3000
     Criar 2 rotas, criar metodo de consumo 
