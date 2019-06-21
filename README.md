@@ -7,10 +7,10 @@ comando npm i
 
 1 PROMISES  File: Promise-TST/index.js
 
-    Criar 3 metodos que retornem um promise e executam simutaneamente processamento 
-    de dados paralelos utilizando com delay de 1 segundo cada execuçao 
+    Criar 3 metodos que retornem um promise e executam simutaneamente o processamento 
+    de dados com delay de 1 segundo cada execuçao 
     criar o metodo sum que soma os numeros do array de inteiros ex: [1, 2, 3, 4] = 10
-    criar o metodo substration que subtrai os numeros do array de inteiros onde caso 
+    criar o metodo substraction que subtrai os numeros do array de inteiros onde caso 
     resultado for menor que zero retorne zero ex: [5, 2, 1, 1] = 1 ou [5, 2, 2, 2] = 0,
     Criar o metodo multiplication que multiplica os numeros do array de inteiros ex: [1, 2, 3, 4] = 24
     Resultados deve ser capturado no metodo result e retornado o valor inteiro de cada metodo ao 
