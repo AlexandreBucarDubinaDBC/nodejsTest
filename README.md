@@ -1,7 +1,9 @@
 # nodejsTest
 Teste em nodejs DBCcompany
 
-npm i
+É necessário node >8.0, pode usar qualquer ide ou editor de preferência 
+Baixar e executar a instalação do projeto
+comando npm i
 
 1 PROMISES
 
@@ -15,7 +17,7 @@ npm i
     final somar os resultados e retornar.
     Implementar metodos de calculo de forma asincrona, que retorna resultado final no metodo result;
 
- 2 Express / HTTP Request
+2 Express / HTTP Request
 
     Criar um servidor usando express na porta 3000
     Criar 2 rotas, criar metodo de consumo 
